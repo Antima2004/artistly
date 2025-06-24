@@ -4,8 +4,7 @@ Artistly is a fictional platform that connects event planners with top-performin
 
 ## 🚀 Live Demo
 
-🔗 [https://artistly.vercel.app](https://artistly.vercel.app)  
-_(Replace this with your actual deployed link if different)_
+🔗 [LiveDemo](https://artistly-five-sooty.vercel.app/)  
 
 ---
 
